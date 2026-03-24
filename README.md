@@ -1,6 +1,6 @@
 A simple and powerful command-line task tracker!
 
-https://github.com/AmadorRodrigo/Task_tracker
+https://roadmap.sh/projects/task-tracker
 
 ##################
 ## Installation ##
