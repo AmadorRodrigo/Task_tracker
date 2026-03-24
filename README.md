@@ -1,5 +1,7 @@
 A simple and powerful command-line task tracker!
 
+https://github.com/AmadorRodrigo/Task_tracker
+
 ##################
 ## Installation ##
 ##################
